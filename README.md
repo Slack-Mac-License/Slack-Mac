@@ -1,7 +1,7 @@
 # Slack – Team Communication Platform
 
 <div align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1024px-Slack_icon_2019.svg.png" width="250" alt="Slack Logo"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="250" alt="Slack Logo"/>  
 </div>  
 
 <br>  
@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://a.slack-edge.com/6c404/marketing/img/meta/slack_hash_256.png" width="1080" alt="Slack Screenshot"/>  
+  <img src="https://cdn.prod.website-files.com/5fc40bb60d624c7df9161ca2/6799ff6188b09ce1a6f045b2_65526a4f8165bd4c7456f162_1.webp" width="1080" alt="Slack Screenshot"/>  
 </div>  
 
 <br>  
